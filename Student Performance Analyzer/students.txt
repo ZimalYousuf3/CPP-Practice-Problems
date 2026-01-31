@@ -1,0 +1,6 @@
+StudentID,Name,Subject1,Subject2,Subject3,Subject4
+2023001,Ahmed Khan,85,92,78,88
+2023002,Sara Ali,67,74,82,79
+2023003,Ali Raza,45,55,61,72
+2023004,Hira Noor,90,87,93,89
+2023005,Osama Malik,71,65,69,58

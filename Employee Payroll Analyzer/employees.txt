@@ -1,0 +1,3 @@
+EmpID,Name,BasicSalary,HoursWorked,Department
+E001,Muhammad Ali,50000,45,IT
+E002,Fatima Noor,45000,38,HR
